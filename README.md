@@ -4,7 +4,7 @@
 
 💻 When I'm not coding, you can find me taming guinea pigs 🐹 and playing osu!. I love risky/fun adventures, and I'm always up for travelling around places I have never been before!
 
-📫 If you want to get in touch with me, feel free to email me at j29mak@uwaterloo.ca. I'm always happy to chat and connect with like-minded people!
+📫 If you want to get in touch with me, feel free to email me at j29mak@uwaterloo.ca. I'm always happy to chat and connect with like-minded individuals!
 
 - 👋 Hi, I’m @JPCodes44
 - 👀 I’m interested in Math/AI (Quantitative Finance)
