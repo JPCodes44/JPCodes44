@@ -6,12 +6,6 @@
 
 📫 If you want to get in touch with me, feel free to email me at j29mak@uwaterloo.ca. I'm always happy to chat and connect with like-minded individuals!
 
-- 👋 Hi, I’m @JPCodes44
-- 👀 I’m interested in Math/AI (Quantitative Finance)
-- ⚛ I’m currently learning Nanotechnology Engineering
-- 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me j29mak@uwaterloo.ca or jp.mak44@gmail.com
-
 ![](https://komarev.com/ghpvc/?username=JPCodes44)
 
 <!---
