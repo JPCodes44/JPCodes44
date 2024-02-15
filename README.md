@@ -1,4 +1,4 @@
-👋 Hi there! My name is JP Mak and I am a Second Year Nanotechnology Engineer, passionate about Biotechnology & Math/AI. I'm currently working on a couple projects including pupil, which aims to help exchange students all over campus translate foreign text from images to gain a better understanding of the world around them. My expertise lies in Calculus 3 & Mobile development, and I'm always looking for new challenges to learn and grow!
+👋 Hi there! My name is JP Mak and I am a Second Year Nanotechnology Engineer, passionate about Biotechnology & Math/AI. I'm currently working on a couple of projects including pupil, which aims to help exchange students all over campus translate foreign text from images to gain a better understanding of the world around them. My expertise lies in Calculus 3 & Mobile development, and I'm always looking for new challenges to learn and grow!
 
 🌟 My GitHub is where I showcase my projects, contributions, and collaborations. I believe in the power of open source and the impact it can have on society, and that's why I'm committed to contributing to the community whenever possible. 
 
