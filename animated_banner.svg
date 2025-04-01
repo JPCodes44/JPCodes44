@@ -19,6 +19,14 @@
     </g>
     <rect x="65" y="85" width="20" height="5" fill="black"/>
   </g>
-  <text x="10" y="145" font-size="50" fill="white">jp was here 🚀</text>
-</svg>
+<text 
+  x="50%" 
+  y="100" 
+  font-size="50" 
+  fill="white" 
+  text-anchor="middle"
+  dominant-baseline="middle"
+>
+  vibe
+</text></svg>
 
