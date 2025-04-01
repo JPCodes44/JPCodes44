@@ -1,4 +1,5 @@
 <p align="center">
-  <img src="https://dl.dropboxusercontent.com/scl/fi/4ivh8za701s5k892z4ho4/animated_banner.svg?rlkey=fthy3b5mghnmfels53esvky6b&st=9vi8zfzl" width="600" height="600" />
+  <img src="https://dl.dropboxusercontent.com/scl/fi/cp41n0ahzh9ssio8qucd5/animated_banner-2.svg?rlkey=uux7gv375x8cnr8uq57mdgnxd&st=ajtimu53" width="600" height="600" />
 </p>
+
 
