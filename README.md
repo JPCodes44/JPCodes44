@@ -1,1 +1,1 @@
-![Animated Banner](path/to/your/animated_banner.svg)
+![Animated Banner](animated_banner.svg)
