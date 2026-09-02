@@ -9,14 +9,6 @@ I'm Justin. A Nanotechnology and AI Engineer based in Canada.
 - **Embedded Software Engineer** @ AeroCardia Inc., Built an initial prototype for a take home cardiologist
 - **QA Developer & Data Scientist** @ Purolator Inc., EV optimization
 
-**Education**
-
-* **University of Waterloo**
-
-  * BASc. Nanotechnology Engineering
-  * Minor in Combinatorics & Optimization
-  * Expected September 2026
-
 **I've worked on:**
 
 - [EmailStrat](https://github.com/JPCodes44/EmailStrat) - an agentic job-search pipeline
@@ -32,3 +24,10 @@ I'm Justin. A Nanotechnology and AI Engineer based in Canada.
 **Writing**
 
 I write about machine learning on [Medium](https://medium.com/@jp.mak44)
+
+**Education**
+
+* **University of Waterloo**
+
+  * BASc. Nanotechnology Engineering
+  * Expected September 2026
