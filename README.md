@@ -2,10 +2,6 @@
 
 I'm Justin. A Nanotechnology and AI Engineer based in Canada.
 
-# Hi there!
-
-I'm Justin, a Nanotechnology and AI Engineer based in Canada.
-
 ## Education
 
 * **University of Waterloo**
