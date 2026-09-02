@@ -8,7 +8,7 @@ I'm Justin. A Nanotechnology and AI Engineer based in Canada.
 - [EmailStrat](https://github.com/JPCodes44/EmailStrat) - an agentic job-search pipeline
 - [Olevius](https://olevius.info) - a cuffless blood-pressure wearable
 - [MSE446_Nanoparticle_Ordering](https://github.com/JPCodes44/MSE446_Nanoparticle_Ordering) - SEM Nano particle ordering classification
-- [TextInk](https://textink.ca) - my current startup project
+- [TextInk](https://textink.ca) - my previous startup project
 
 **Embedded work:**
 
