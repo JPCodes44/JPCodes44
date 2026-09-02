@@ -2,6 +2,13 @@
 
 I'm Justin. A Nanotechnology and AI Engineer based in Canada.
 
+**Experience**
+
+- **AI/ML Engineer** @ GoNano - ML engineering for accessing the replacement risk of roofs based on FTIR data
+- **Software & Automation Analyst** @ DiaMonTech AG - Worked on the first non-invasive blood glucose sensor
+- **Embedded Software Engineer** @ AeroCardia Inc., Built an initial prototype for a take home cardiologist
+- **QA Developer & Data Scientist** @ Purolator Inc., EV optimization
+
 ## Education
 
 * **University of Waterloo**
@@ -21,13 +28,6 @@ I'm Justin. A Nanotechnology and AI Engineer based in Canada.
 
 - [SEN0344_lib](https://github.com/JPCodes44/SEN0344_lib) - a lightweight Arduino library for the DFRobot SEN0344 SpO₂ sensor (MAX30102) over I²C
 - [HeartClick5_lib](https://github.com/JPCodes44/HeartClick5_lib) - an Arduino driver for the HeartClick5 PPG/SpO₂ sensor module
-
-**Experience**
-
-- **AI/ML Engineer** @ GoNano - ML engineering for accessing the replacement risk of roofs based on FTIR data
-- **Software & Automation Analyst** @ DiaMonTech AG - Worked on the first non-invasive blood glucose sensor
-- **Embedded Software Engineer** @ AeroCardia Inc., Built an initial prototype for a take home cardiologist
-- **QA Developer & Data Scientist** @ Purolator Inc., EV optimization
 
 **Writing**
 
