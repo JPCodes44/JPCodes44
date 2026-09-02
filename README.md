@@ -2,7 +2,7 @@
 
 I'm Justin. A Nanotechnology and AI Engineer based in Canada.
 
-## Experience
+**Experience**
 
 - **AI/ML Engineer** @ GoNano - ML engineering for accessing the replacement risk of roofs based on FTIR data
 - **Software & Automation Analyst** @ DiaMonTech AG - Worked on the first non-invasive blood glucose sensor
