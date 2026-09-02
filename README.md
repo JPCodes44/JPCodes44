@@ -30,4 +30,3 @@ I write about machine learning on [Medium](https://medium.com/@jp.mak44)
 * **University of Waterloo**
 
   * BASc. Nanotechnology Engineering
-  * Expected September 2026
