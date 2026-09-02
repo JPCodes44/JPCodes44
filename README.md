@@ -27,6 +27,4 @@ I write about machine learning on [Medium](https://medium.com/@jp.mak44)
 
 **Education**
 
-* **University of Waterloo**
-
-  * BASc. Nanotechnology Engineering
+* **University of Waterloo** - BASc. Nanotechnology Engineering
