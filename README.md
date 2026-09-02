@@ -24,7 +24,7 @@ I'm Justin. A Nanotechnology and AI Engineer based in Canada.
 
 **Experience**
 
-- **AI/ML Engineer** @ GoNano - Nano coatings for roofs
+- **AI/ML Engineer** @ GoNano - Predicting roof deterioration from FTIR spectra and microscopic shingle imagery to estimate replacement risk
 - **Software & Automation Analyst** @ DiaMonTech AG - Worked on the first non-invasive blood glucose sensor
 - **Embedded Software Engineer** @ AeroCardia Inc., Built an initial prototype for a take home cardiologist.
 - **QA Developer & Data Scientist** @ Purolator Inc., EV optimization
