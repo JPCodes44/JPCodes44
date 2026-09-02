@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Justin. A AI and Nano Engineer based in Canada.
+I'm Justin. A Nano and AI Engineer based in Canada.
 
 **I've worked on:**
 
