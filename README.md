@@ -8,8 +8,6 @@ I'm Justin. A AI and Nano Engineer based in Canada.
 - [EmailStrat](https://github.com/JPCodes44/EmailStrat) - an agentic job-search pipeline
 - [Olevius](https://olevius.info) - a cuffless blood-pressure wearable
 - [MSE446_Nanoparticle_Ordering](https://github.com/JPCodes44/MSE446_Nanoparticle_Ordering) - SEM Nano particle ordering classification
-- [JPQuant](https://github.com/JPCodes44/JPQuant) - quantitative trading backtesting scripts with randomized-time-window overfitting checks
-- [holis](https://github.com/JPCodes44/holis) - a Solana liquidity management webapp for DEFI tokens on AMMs
 - [TextInk](https://textink.ca) - my current startup project
 
 **Embedded work:**
