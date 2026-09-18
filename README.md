@@ -7,7 +7,7 @@ I'm Justin. A Nanotechnology and AI Engineer based in Canada.
 - **AI/ML Engineer** @ GoNano - ML engineering for assessing the replacement risk of roofs based on FTIR data
 - **Software Engineer** @ DiaMonTech AG - Worked on the first non-invasive blood glucose sensor
 - **Embedded Software Engineer** @ AeroCardia Inc., Built an initial prototype for a take home cardiologist
-- **QA Developer & Data Scientist** @ Purolator Inc., EV optimization
+- **Data Analyst & Data Scientist** @ Purolator Inc., EV optimization
 
 **I've worked on:**
 
